@@ -1,0 +1,4 @@
+Sitemap: https://www.nutrifreshfoods.in/sitemap_index.xml
+
+User-agent: GPTBot
+Disallow: /
